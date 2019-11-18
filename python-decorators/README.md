@@ -4,11 +4,13 @@
 - [Boise Area Python User Group](https://www.meetup.com/boise-area-python-user-group/events/260155341/) -- April 17, 2019 
 
 # Two important concepts
+
 (a) First class functions
   - allow us to treat functions like any other objects:
     - pass function as argument
     - pass function as a return value
     - assign function to a variable
+
 (b) Closures
     - like any other "nested" concept in programming, a nested function is a function defined inside a function 
     - these nested functions can use variables from the enclosing environment (outer functions)
